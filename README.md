@@ -1,2 +1,2 @@
 # assignment2-Kothalachinta
-Lab2 Assignment
+Lab2_Assignment
