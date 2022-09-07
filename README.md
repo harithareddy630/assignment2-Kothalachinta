@@ -66,10 +66,3 @@ India is a diversified country with multiple regions and religions.So,we have ma
 
 **[Link to code snippet](https://css-tricks.com/snippets/sass/fix-number-n-digits/)**
 
-
-
-
-
-
-
-
