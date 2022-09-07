@@ -19,6 +19,20 @@ Directions from LCY Airport to the British Museum through road :
 
 **[Link to AboutMe](AboutMe.md)**
 
+------------------------------------
+
+# Famous places to visit in India 
+
+India is a diversified country with multiple regions and religions.So,we have many opportunities to explore the place and go for adventurous trecks.Below is a list of the cities and most visited places in here :
+
+|City Name|Location to Visit|Time Spent|
+--- |--- |--- |
+|Banglore |Bannerghatta National Park |6 hrs|
+|Rajasthan |Jaisalmer |2 hrs|
+|Kashmir |Dal Lake |10 hrs|
+
+---
+
 
 
 
