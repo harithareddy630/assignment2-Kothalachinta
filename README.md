@@ -12,3 +12,10 @@ Directions from LCY Airport to the British Museum through road :
 * Take A1020, Lower Lea Crossing, Aspen Way/A1261, A1203 to Bloomsbury PI in Holborn
 * Drive to Great Russell St and then your destination will be on your right
 
+### Few other must visit locations around the museum include the following :
+-Tower Bridge
+-Churchill War Rooms
+-National Gallery
+
+
+
