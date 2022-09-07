@@ -15,7 +15,7 @@ Directions from LCY Airport to the British Museum through road :
 ### Few other must visit locations around the museum include the following :
 * Tower Bridge
 * Churchill War Rooms
-* National Gallery 
+* National Gallery  
 
 **[Link to AboutMe](AboutMe.md)**
 
