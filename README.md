@@ -31,7 +31,17 @@ India is a diversified country with multiple regions and religions.So,we have ma
 |Rajasthan |Jaisalmer |2 hrs|
 |Kashmir |Dal Lake |10 hrs|
 
----
+--------------------------
+
+# Pithy Quotes
+
+> Life is a journey, not a destination.
+>> _Ralph Waldo Emerson_
+
+>To suceed in life, you need two things: ignorance and confidence.
+>> _Mark Twain_
+
+
 
 
 
