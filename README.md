@@ -42,6 +42,33 @@ India is a diversified country with multiple regions and religions.So,we have ma
 >> _Mark Twain_
 
 
+--------------------------
+
+# Code Fencing
+
+> Sass - Fix a Number to N Digits
+>> https://stackoverflow.com/questions/2221167/javascript-formatting-a-rounded-number-to-n-decimals
+```
+
+@function to-fixed($float, $digits: 2) {
+  $sass-precision: 5;
+  
+  @if $digits > $sass-precision {
+    @warn "Sass sets default precision to #{$sass-precision} digits, and there is no way to change that for now."
+    + "The returned number will have #{$sass-precision} digits, even if you asked for `#{$digits}`."
+    + "See https://github.com/sass/sass/issues/1122 for further informations.";
+  }
+  
+  $pow: pow(10, $digits);
+  @return round($float * $pow) / $pow;
+}
+```
+
+**[Link to code snippet](https://css-tricks.com/snippets/sass/fix-number-n-digits/)**
+
+
+
+
 
 
 
